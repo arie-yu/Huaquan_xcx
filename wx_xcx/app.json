@@ -3,10 +3,7 @@
     "pages/news/news",
     "pages/newsContent/newsContent",
     "pages/pictures/pictures",
-    "pages/picturesContent/picturesContent",
-    "pages/message/Message",
-    "pages/recruit/recruit",
-    "pages/login/login"
+    "pages/picturesContent/picturesContent"
   ],
   "window": {
     "backgroundTextStyle": "light",
