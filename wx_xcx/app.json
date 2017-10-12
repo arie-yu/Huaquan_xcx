@@ -3,7 +3,10 @@
     "pages/news/news",
     "pages/newsContent/newsContent",
     "pages/pictures/pictures",
-    "pages/picturesContent/picturesContent"
+    "pages/picturesContent/picturesContent",
+    "pages/videos/videos",
+    "pages/videosContent/videosContent"
+    
   ],
   "window": {
     "backgroundTextStyle": "light",
@@ -27,6 +30,12 @@
         "text": "图片",
         "iconPath": "icons/picture.png",
         "selectedIconPath": "icons/picture-on.png"
+      },
+      {
+        "pagePath": "pages/videos/videos",
+        "text": "视频",
+        "iconPath": "icons/video.png",
+        "selectedIconPath": "icons/video-on.png"
       }
     ]
   }
